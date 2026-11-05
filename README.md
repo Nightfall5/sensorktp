@@ -15,6 +15,10 @@ SensorKTP is a browser-based tool for preparing safer copies of **Kartu Tanda Pe
 
 The interface is currently in **Bahasa Indonesia**.
 
+## Live demo
+
+Once the first GitHub Pages deployment is complete, the app will be available at **https://nightfall5.github.io/sensorktp/**. All future pushes to `main` will automatically publish an updated version.
+
 ## Why SensorKTP?
 
 A photo of an identity card can expose more information than a recipient actually needs. SensorKTP helps you reduce that exposure before sending a copy.
